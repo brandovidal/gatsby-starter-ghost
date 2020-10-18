@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://blog-brandovidal.herokuapp.com/",
+    "apiUrl": "https://blog-brandovidal.herokuapp.com",
     "contentApiKey": "494e752d805c9c50358d32ef8f"
   },
   "production": {
-    "apiUrl": "https://blog-brandovidal.herokuapp.com/",
+    "apiUrl": "https://blog-brandovidal.herokuapp.com",
     "contentApiKey": "494e752d805c9c50358d32ef8f"
   }
 }
