@@ -1,5 +1,7 @@
 module.exports = {
-    siteUrl: `http://localhost:8000`, // Site domain. Do not include a trailing slash!
+    // Site domain. Do not include a trailing slash!
+    // siteUrl: `http://localhost:8000`,
+    siteUrl: `https://blog-brandovidal.herokuapp.com`,
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
